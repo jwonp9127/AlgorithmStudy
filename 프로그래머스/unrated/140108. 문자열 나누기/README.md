@@ -1,10 +1,10 @@
 # [unrated] 문자열 나누기 - 140108 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=csharp) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 4.61 ms
+메모리: 47.5 MB, 시간: 11.11 ms
 
 ### 구분
 
